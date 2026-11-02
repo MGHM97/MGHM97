@@ -10,7 +10,7 @@ I am a **Senior Software Engineer** with nearly 5 years of experience, specializ
 - 🏢 Currently working as a **Senior Software Engineer** at **HP Inc.**, architecting micro-frontends serving millions of global active devices.
 - 🔬 Acting as **Lead Front-end Engineer** for an AI-driven healthcare R&D project at **UFAM**.
 - 🎓 Pursuing a **Master's Degree in Artificial Intelligence** (Expected 2027).
-- 🌍 Open to global challenges, remote work, and relocation opportunities (UK/Europe).
+- 🌍 Open to global challenges, remote work, and relocation opportunities (NA, UK and Europe).
 - 💬 Ask me about: **React, TypeScript, Micro-frontends, Web Accessibility, and AI tooling.**
 - 📫 How to reach me: **mateusoliveira469@gmail.com**
 
