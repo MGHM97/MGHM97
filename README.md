@@ -8,7 +8,7 @@
 I am a **Senior Software Engineer** with nearly 5 years of experience, specializing in **React, TypeScript, and micro-frontend architectures**. I have a proven track record of developing scalable, cross-platform applications for global tech giants and integrating complex AI models into seamless user experiences.
 
 - 🏢 Currently working as a **Senior Software Engineer** at **HP Inc.**, architecting micro-frontends serving millions of global active devices.
-- 🔬 Acting as **Lead Front-end Engineer** for an AI-driven healthcare R&D project at **UFAM** (predicting dementia progression).
+- 🔬 Acting as **Lead Front-end Engineer** for an AI-driven healthcare R&D project at **UFAM**.
 - 🎓 Pursuing a **Master's Degree in Artificial Intelligence** (Expected 2027).
 - 🌍 Open to global challenges, remote work, and relocation opportunities (UK/Europe).
 - 💬 Ask me about: **React, TypeScript, Micro-frontends, Web Accessibility, and AI tooling.**
